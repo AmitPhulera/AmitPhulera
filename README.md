@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Amit Phulera.
+
+![Amit's GitHub Stats](https://github-stats-lyart.vercel.app/api?username=amitphulera&count_private=true)
+
+![I generally write](https://github-stats-lyart.vercel.app/api/top-langs?username=amitphulera&count_private=true)
 
 <!--
 **AmitPhulera/AmitPhulera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
