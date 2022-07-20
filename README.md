@@ -10,9 +10,9 @@
   I consider myself a backend developer with decent frontend experience 😁
 </p>
 
-<p align='center'>
+<!--p align='center'>
   <img src='https://github-stats-lyart.vercel.app/api?username=amitphulera&count_private=true&theme=dark&hide=stars' width='400'>
-</p>
+</p -->
 
 
 <p>
@@ -28,13 +28,13 @@
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'> &nbsp;&nbsp;
   <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'>
   &nbsp; <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
-</p>
+</p -->
 
 
 <hr>
-<p>
+<!-- p>
   You know how many amazing people visited this profile <a href="#"><img src='https://badges.pufler.dev/visits/amitphulera/amitphulera'></a>
-</p>
+</p -->
 <p>
   Thanks a lot for visiting 😍
 </p>
